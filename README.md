@@ -11,7 +11,7 @@ Repository to Migrate a Database from an IAAS SQL Server to an Azure SQL DB.
 * Azure SQL Database
 * Azure Entra ID
 
-Below is a diagram of the architecture for used for this project.
+Architecture for this project.
 
 ![Azure Project Diagram](https://github.com/Jude-Everitt/Azure-Database-Migration/assets/147021206/8e85fe24-3338-4ce2-8f5c-e1a582d7a8a4)
 
