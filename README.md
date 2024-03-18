@@ -36,5 +36,7 @@ Recent hardware updates to the data centre have been expensive as all work compu
 
 # Wiki
 
-For a more detailed explanation on the steps taken to complete this project, please see the Wiki page for more information.
+For a more detailed explanation on the steps taken to complete this project, please see the Wiki page for more information. https://github.com/Jude-Everitt/Azure-Database-Migration.wiki.git
+
+
 
