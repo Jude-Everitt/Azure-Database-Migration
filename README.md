@@ -28,9 +28,16 @@ The team operates within different parts of the US, meaning not everybody hired 
 The data centres' reslience has been put into question after a social engineering incident lead to the deletion of thousands of records from the database. With the all of the data for the business in one place, any corruptions within the database could lead to the business being unable to operate.
 Recent hardware updates to the data centre have been expensive as all work computers must be compatible
 
+# The Solution
+
+The solution is to migrate the database to the Microsoft Azure cloud platform.
+
+By utilizing Azure Capital Expenditure on the business will decrease. Furthermore, scalibilty within the cloud is possible depending on the level of demand gained from the European expansion. Lastly, the ability to back up data, and store it within various regions allows for greater resilience vs external threats.
+
+Below is a diagram of the architecture for used for this project.
 
 
-
+![Azure Project Diagram](https://github.com/Jude-Everitt/Azure-Database-Migration/assets/147021206/8e85fe24-3338-4ce2-8f5c-e1a582d7a8a4)
 
 
 
