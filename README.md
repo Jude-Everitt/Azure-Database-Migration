@@ -17,5 +17,5 @@ Architecture for this project.
 
 # Wiki
 
-For a detailed step-by-step explanation on the steps taken to complete this project, please see the Wiki page for more information. 
+For a detailed step-by-step explanation on the steps taken to complete this project, please see the [!Wiki](https://github.com/Jude-Everitt/Azure-Database-Migration/wiki) page for more information. 
 https://github.com/Jude-Everitt/Azure-Database-Migration/wiki
